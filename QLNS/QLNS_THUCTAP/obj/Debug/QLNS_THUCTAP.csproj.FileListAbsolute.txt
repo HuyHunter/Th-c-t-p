@@ -1,9 +1,0 @@
-D:\Github\testgithub\testgithub\QLNS_THUCTAP\QLNS_THUCTAP\bin\Debug\QLNS_THUCTAP.exe.config
-D:\Github\testgithub\testgithub\QLNS_THUCTAP\QLNS_THUCTAP\obj\Debug\QLNS_THUCTAP.exe
-D:\Github\testgithub\testgithub\QLNS_THUCTAP\QLNS_THUCTAP\obj\Debug\QLNS_THUCTAP.pdb
-C:\Users\KN\Documents\GitHub\quanli\QLNS\QLNS_THUCTAP\bin\Debug\QLNS_THUCTAP.exe.config
-C:\Users\KN\Documents\GitHub\quanli\QLNS\QLNS_THUCTAP\obj\Debug\QLNS_THUCTAP.exe
-C:\Users\KN\Documents\GitHub\quanli\QLNS\QLNS_THUCTAP\obj\Debug\QLNS_THUCTAP.pdb
-C:\Users\Jojo\Documents\GitHub\quanli\QLNS\QLNS_THUCTAP\bin\Debug\QLNS_THUCTAP.exe.config
-C:\Users\Jojo\Documents\GitHub\quanli\QLNS\QLNS_THUCTAP\obj\Debug\QLNS_THUCTAP.exe
-C:\Users\Jojo\Documents\GitHub\quanli\QLNS\QLNS_THUCTAP\obj\Debug\QLNS_THUCTAP.pdb
