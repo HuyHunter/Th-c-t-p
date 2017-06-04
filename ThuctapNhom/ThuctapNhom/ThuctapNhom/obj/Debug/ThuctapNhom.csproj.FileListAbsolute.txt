@@ -1,0 +1,182 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\Administrator\Desktop\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Form1.resources
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+D:\trung\6\Thực tập nhóm\Quản lý nhân sự\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\New folder\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\Administrator\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\TienLoc\Desktop\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThemNanhVien.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TTN\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormTimKiem.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThemNanhVien.resources
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThemNanhVien.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormTimKiem.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThemNanhVien.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormTimKiem.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (2)\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThemNanhVien.resources
+C:\Users\NgoDucMTA\Desktop\New folder\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormTimKiem.resources
+C:\Users\TienLoc\Desktop\quanlynhansu_tt\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThongTinPhongBan.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThemNanhVien.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThongTinPhongBan.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\HuyHunter\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\Latitude\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\Latitude\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\Latitude\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThemNanhVien.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormConnect.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThongTinPhongBan.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\KN\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe.config
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.exe
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.pdb
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.exe
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\bin\Debug\ThuctapNhom.pdb
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csprojResolveAssemblyReference.cache
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormPhongBan.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormHelp.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormLogin.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormMain.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormNhanVien.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThongTinPhongBan.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormStart.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.Properties.Resources.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.csproj.GenerateResource.Cache
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.HienThiTiemKiem.resources
+C:\Users\Jojo\Documents\GitHub\quanli\ThuctapNhom\ThuctapNhom\ThuctapNhom\obj\Debug\ThuctapNhom.FormThemNhanVien.resources

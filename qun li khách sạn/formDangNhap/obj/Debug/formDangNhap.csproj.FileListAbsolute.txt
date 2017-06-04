@@ -1,0 +1,10 @@
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\bin\Debug\formDangNhap.exe.config
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\obj\Debug\formDangNhap.csprojResolveAssemblyReference.cache
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\obj\Debug\formDangNhap.Properties.Resources.resources
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\obj\Debug\formDangNhap.csproj.GenerateResource.Cache
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\bin\Debug\formDangNhap.exe
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\bin\Debug\formDangNhap.pdb
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\obj\Debug\formDangNhap.exe
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\obj\Debug\formDangNhap.pdb
+c:\users\huyhunter\documents\visual studio 2015\Projects\formDangNhap\formDangNhap\obj\Debug\formDangNhap.Form2.resources
+C:\Users\HuyHunter\Documents\Visual Studio 2015\Projects\formDangNhap\formDangNhap\obj\Debug\formDangNhap.form1.resources

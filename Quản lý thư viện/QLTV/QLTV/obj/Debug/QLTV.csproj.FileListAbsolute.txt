@@ -1,0 +1,72 @@
+D:\Thực tập nhóm_TH13\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\Thực tập nhóm_TH13\QLTV\QLTV\bin\Debug\QLTV.exe
+D:\Thực tập nhóm_TH13\QLTV\QLTV\bin\Debug\QLTV.pdb
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.pdb
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.FormLogin.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.FormMain.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.NguoidungControl.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.LopControl.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.SachControl.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.NXBControl.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.ControlDausach.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.TheloaiControl.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.CTPMControl.resources
+D:\Thực tập nhóm_TH13\QLTV\QLTV\obj\Debug\QLTV.PhieumuonControl.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.CTPMControl.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.FormLogin.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.FormMain.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.LopControl.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.NXBControl.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.PhieumuonControl.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.NguoidungControl.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.SachControl.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.ControlDausach.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.TheloaiControl.resources
+C:\Users\KN\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.CTPMControl.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.FormLogin.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.FormMain.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.LopControl.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.NXBControl.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.PhieumuonControl.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.NguoidungControl.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.SachControl.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.ControlDausach.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.TheloaiControl.resources
+C:\Users\Latitude\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.CTPMControl.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.FormLogin.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.FormMain.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.LopControl.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.NXBControl.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.PhieumuonControl.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.NguoidungControl.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.SachControl.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.ControlDausach.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.TheloaiControl.resources
+C:\Users\Jojo\Documents\GitHub\quanli\Quản lý thư viện\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
